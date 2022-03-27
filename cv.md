@@ -35,7 +35,7 @@ I want to change my life and to learn Front-end Development in **RSSchool**!!!
 
 ### Work experience
 
-- [2021-202?]
+- [2021-202?]  
 [OAO ГЛЗ "Центролит"](https://www.glz-centrolit.by) - as an electrician for the maintenance and repair of electrical equipment
 
 ### Courses
