@@ -6,10 +6,10 @@
 
 ### Contact information
 
-- **Phone:** +375 (25) 535-92-89 </br>
-- **E-mail:** andrej.savich.2001@gmail.com </br>
-- **Telegram:** @AndreySwitch </br>
-- **GitHub:** [@AndrwSwt4](https://github.com/AndrwSwt4) </br>
+- **Phone:** +375 (25) 535-92-89
+- **E-mail:** andrej.savich.2001@gmail.com
+- **Telegram:** @AndreySwitch
+- **GitHub:** [@AndrwSwt4](https://github.com/AndrwSwt4)
 - **Twitter:** [@savich_andrey](https://twitter.com/savich_andrey)
 
 ### About myself
@@ -35,7 +35,7 @@ I want to change my life and to learn Front-end Development in **RSSchool**!!!
 
 ### Work experience
 
-- [2021-202?] </br>
+- [2021-202?]
 [OAO ГЛЗ "Центролит"](https://www.glz-centrolit.by) - as an electrician for the maintenance and repair of electrical equipment
 
 ### Courses
